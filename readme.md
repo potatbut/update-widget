@@ -1,5 +1,6 @@
 # Виджет обновления новостной ленты | News feed update widget
-[DEMO](https://potatbut.github.io/updates-widget/dist/ "DEMO")
+[DEMO / Демонстрация по клику](https://potatbut.github.io/updates-widget/dist/ "DEMO")
+
 Описание:
 
 1. Подключение виджета сделано через JS, который вставляется на страницу.
